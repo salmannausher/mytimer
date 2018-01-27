@@ -11,9 +11,14 @@ body{
     transform: translate(-50%, -50%);
     text-align: center;
     font-family: 'Pacifico', cursive;
-    font-size: 20px;
+    font-size: 20px;}
 
-}
+		.center {
+	    margin: auto;
+	    width: 60%;
+	    padding-left: 41%;
+			margin-top: 1.5cm;
+	}
 h1{
   color: #f26b10;
 }
