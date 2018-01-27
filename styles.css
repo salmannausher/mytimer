@@ -1,8 +1,24 @@
 body{
 	font: normal 13px/20px Arial, Helvetica, sans-serif; word-wrap:break-word;
 	color: #eee;
-	background: #353535;
+	background: white;
 }
+
+.middle {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+
+}
+h1{
+  color: #f26b10;
+}
+h3{color: black}
+
 #countdown{
 	width: 465px;
 	height: 112px;
